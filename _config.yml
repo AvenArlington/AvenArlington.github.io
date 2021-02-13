@@ -28,7 +28,7 @@ url: "http://avenarlington.com" # the base hostname & protocol for your site, e.
 github_username:  aven-arlington
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
