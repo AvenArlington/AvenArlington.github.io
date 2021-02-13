@@ -1,9 +1,7 @@
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-02-12 19:00:48 -0600
-categories: jekyll update
----
+To modify the blog, the Gemfile contains instructions on how to build local changes with the "bundle exec jekyll serve" command.
+
+To add a new post, copy the "---" section from a previous post and add markdown content.
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
